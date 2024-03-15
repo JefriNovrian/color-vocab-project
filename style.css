@@ -1,0 +1,24 @@
+.block{
+    width: 200px;
+    height: 200px;
+}
+
+.text{
+    font-weight: normal;
+}
+
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li[value="2"]{
+    color: blue;
+}
+
+#warna1{
+    color: red;
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
